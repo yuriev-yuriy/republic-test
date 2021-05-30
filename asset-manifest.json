@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/republic-test/static/css/main.7e2e49a4.chunk.css",
+    "main.js": "/republic-test/static/js/main.d1054ec0.chunk.js",
+    "main.js.map": "/republic-test/static/js/main.d1054ec0.chunk.js.map",
+    "runtime-main.js": "/republic-test/static/js/runtime-main.caeb303a.js",
+    "runtime-main.js.map": "/republic-test/static/js/runtime-main.caeb303a.js.map",
+    "static/css/2.e414fb75.chunk.css": "/republic-test/static/css/2.e414fb75.chunk.css",
+    "static/js/2.0dbf146d.chunk.js": "/republic-test/static/js/2.0dbf146d.chunk.js",
+    "static/js/2.0dbf146d.chunk.js.map": "/republic-test/static/js/2.0dbf146d.chunk.js.map",
+    "static/js/3.35ae81aa.chunk.js": "/republic-test/static/js/3.35ae81aa.chunk.js",
+    "static/js/3.35ae81aa.chunk.js.map": "/republic-test/static/js/3.35ae81aa.chunk.js.map",
+    "index.html": "/republic-test/index.html",
+    "static/css/2.e414fb75.chunk.css.map": "/republic-test/static/css/2.e414fb75.chunk.css.map",
+    "static/css/main.7e2e49a4.chunk.css.map": "/republic-test/static/css/main.7e2e49a4.chunk.css.map",
+    "static/js/2.0dbf146d.chunk.js.LICENSE.txt": "/republic-test/static/js/2.0dbf146d.chunk.js.LICENSE.txt",
+    "static/media/contact.0ce7e6b5.svg": "/republic-test/static/media/contact.0ce7e6b5.svg",
+    "static/media/eighth.4855c0d0.png": "/republic-test/static/media/eighth.4855c0d0.png",
+    "static/media/fifth.0d0883aa.png": "/republic-test/static/media/fifth.0d0883aa.png",
+    "static/media/first.dd43874d.png": "/republic-test/static/media/first.dd43874d.png",
+    "static/media/fourth.a8235c1c.png": "/republic-test/static/media/fourth.a8235c1c.png",
+    "static/media/Describe.module.css": "/republic-test/static/media/mob-pic.42b70156.png",
+    "static/media/ninth.ea7c5a81.png": "/republic-test/static/media/ninth.ea7c5a81.png",
+    "static/media/index.css": "/republic-test/static/media/roboto-v27-latin-regular.9b78ea3b.woff",
+    "static/media/second.e81f1fa7.png": "/republic-test/static/media/second.e81f1fa7.png",
+    "static/media/seventh.8c595ddd.png": "/republic-test/static/media/seventh.8c595ddd.png",
+    "static/media/sixth.0b975d5b.png": "/republic-test/static/media/sixth.0b975d5b.png",
+    "static/media/slick-theme.css": "/republic-test/static/media/slick.c94f7671.ttf",
+    "static/media/third.3c9e1ca9.png": "/republic-test/static/media/third.3c9e1ca9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caeb303a.js",
+    "static/css/2.e414fb75.chunk.css",
+    "static/js/2.0dbf146d.chunk.js",
+    "static/css/main.7e2e49a4.chunk.css",
+    "static/js/main.d1054ec0.chunk.js"
+  ]
+}
