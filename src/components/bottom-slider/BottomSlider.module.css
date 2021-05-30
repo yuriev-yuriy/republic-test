@@ -1,0 +1,73 @@
+.title {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin: 54px 0 40px 0;
+  color: #4f586b;
+  padding: 0 16px;
+}
+
+.img {
+  min-width: 152px;
+  height: 152px;
+  margin: 8px;
+  padding: 0;
+  border-radius: 20px;
+}
+
+.p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #4f586b;
+}
+
+.wrap {
+  margin: 0 0 12px 0;
+  padding: 0;
+  transform: translateX(8px);
+}
+
+/* .slick-slide {
+  width: 167px;
+}
+
+.slick-dots button {
+  font-size: 0;
+  padding: 0;
+}
+.pins li:nth-child(1) button {
+  width: 8px;
+  height: 8px;
+}
+.pins li:nth-child(2) button {
+  width: 6px;
+  height: 6px;
+}
+.pins li:nth-child(3) button {
+  width: 4px;
+  height: 4px;
+}
+
+.pins li button:before {
+  font-family: "slick";
+  font-size: 6px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  content: "•";
+  text-align: center;
+  opacity: 0.25;
+  color: black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
