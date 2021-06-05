@@ -17,7 +17,7 @@
   letter-spacing: 0em;
   text-align: left;
   color: rgb(139, 146, 171);
-  opacity: 50%;
+  opacity: 0.5;
 }
 
 :focus::-webkit-input-placeholder {
@@ -70,4 +70,14 @@ input:focus {
   background: linear-gradient(236.84deg, #9c8bea 1.49%, #544695 105.35%);
   border: none;
   margin: 0 auto 56px;
+}
+
+@media screen and (min-width: 2080px) {
+  .wrap {
+    width: 752px;
+  }
+
+  .btn {
+    margin: 0;
+  }
 }

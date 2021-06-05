@@ -26,46 +26,48 @@ export default function BottomSlider() {
   };
 
   return (
-    <>
+    <div className={s.container}>
       <h2 className={s.title}>Choose your profession for more details</h2>
       <Slider {...settings}>
         <div className={s.wrap}>
-          <img className={s.img} src={first} alt="specialist" />
+          <img className={s.img} src={first} alt="Sales Agent" />
           <p className={s.p}>Sales Agent</p>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={second} alt="specialist" />
+          <img className={s.img} src={second} alt="Сity Business Owner" />
           <p>Сity Business Owner</p>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={third} alt="specialist" />
+          <img className={s.img} src={third} alt="Tutor" />
           <p className={s.p}>Tutor</p>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={fourth} alt="specialist" />
+          <img className={s.img} src={fourth} alt="Financial Advisor" />
           <p className={s.p}>Financial Advisor</p>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={fifth} alt="specialist" />
+          <img className={s.img} src={fifth} alt="Personal Care Giver" />
           <p className={s.p}>Personal Care Giver</p>
         </div>
         <div>
-          <img className={s.img} src={sixth} alt="specialist" />
-          <p className={s.p}>Yoga Trainer</p>
+          <div className={s.wrap}>
+            <img className={s.img} src={sixth} alt="Yoga Trainer" />
+            <p className={s.p}>Yoga Trainer</p>
+          </div>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={seventh} alt="specialist" />
+          <img className={s.img} src={seventh} alt="Nutritionist" />
           <p className={s.p}>Nutritionist</p>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={eighth} alt="specialist" />
+          <img className={s.img} src={eighth} alt="Astrologer" />
           <p className={s.p}>Astrologer</p>
         </div>
         <div className={s.wrap}>
-          <img className={s.img} src={ninth} alt="specialist" />
+          <img className={s.img} src={ninth} alt="Senior Care Director" />
           <p className={s.p}>Senior Care Director</p>
         </div>
       </Slider>
-    </>
+    </div>
   );
 }

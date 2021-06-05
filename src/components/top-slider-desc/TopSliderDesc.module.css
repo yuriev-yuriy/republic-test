@@ -1,0 +1,20 @@
+.container {
+  max-width: 1312px;
+  margin: 0 auto 168px;
+}
+
+.title {
+  margin-left: 0;
+}
+
+.innerContainer {
+  display: flex;
+}
+
+.wrap:not(:last-child) {
+  margin-right: 32px;
+}
+
+.wrap {
+  width: 304px;
+}

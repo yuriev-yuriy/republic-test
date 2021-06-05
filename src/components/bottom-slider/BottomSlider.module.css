@@ -71,3 +71,21 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 } */
+
+@media screen and (min-width: 2080px) {
+  .container {
+    max-width: 1312px;
+    /* overflow: hidden; */
+    margin: 0 auto 128px;
+  }
+
+  .wrap {
+    transform: translateX(-346px);
+  }
+
+  .img {
+    width: 192px;
+    height: 192px;
+    margin: 16px;
+  }
+}
